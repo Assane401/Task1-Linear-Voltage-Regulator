@@ -8,9 +8,9 @@
 		(title "5V Linear Voltage Regulator")
 		(date "2026-03-02")
 		(rev "1.0")
-		(company "EUTech engineer")
+		(company "EUTech engineers")
 		(comment 1 "Regulator: L7805CV")
-		(comment 2 "Designer: Assane DIENG")
+		(comment 2 "Designer: Assane DIENG (Electrical Engineering Apprentice)")
 	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x02"
